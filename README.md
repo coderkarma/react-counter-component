@@ -4,8 +4,8 @@ By building this simple application, we'll explore the concepts of state, the di
 
 To get started:
 
-```sh
-git clone git@git.generalassemb.ly:ga-wdi-exercises/react-counters.git
+```
+
 cd react-counters
 npm install
 npm run start
